@@ -147,3 +147,5 @@ TicketView::ticketsView();
 ### References
 
 [Raw PHP Eager Loading](https://kevdees.com/raw-php-and-mysql-eager-loading/)
+
+[Common Mistake in PHP](https://www.toptal.com/php/10-most-common-mistakes-php-programmers-make)
