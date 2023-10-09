@@ -8,7 +8,7 @@ Prefetch
 
 ### PHP
 PHP EAGER LOADING
-```
+```php
 $authors = $pdo->query("SELECT * FROM `authors` LIMIT 10;");
 
 // Setup eager list of IDs
@@ -32,7 +32,7 @@ foreach ($authors as $author) {
 }
 ```
 CONCEPT OF EAGER LOADING
-```
+```php
 <?php
 class Template extends Database {
 
